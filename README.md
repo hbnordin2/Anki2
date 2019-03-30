@@ -100,5 +100,6 @@ file in your project's repository. You may also need to modify permissions for
 your project's worker roles. After you push the template change, AWS CodeStar
 and AWS CloudFormation provision the resources for you.
 
+
 See the AWS CodeStar user guide for instructions to modify your template:
 https://docs.aws.amazon.com/codestar/latest/userguide/how-to-change-project#customize-project-template.html
